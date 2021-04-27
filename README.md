@@ -4,4 +4,4 @@
 <br>
 **Client**: React.js, CRUD REST-API, Apollo-GraphQL
 <br>
-Deployed on AWS EC2
+Deployed on AWS EC2 (http://18.212.165.45:3000/)
