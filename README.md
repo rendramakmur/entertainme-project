@@ -1,4 +1,4 @@
-# entertainme-project
+# entertainme-project (Watchudoin)
 ### Tech Stacks:
 **Server**: MongoDB(Microservices), GraphQL (Orchestrator), CRUD - REST API, Redis, Express.js, Node.js
 <br>
